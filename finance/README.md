@@ -7,10 +7,11 @@
 ## Checklist 
 
 - Always
-  - [ ] 
+  - 
 
 - Planning
-  - [ ] Work on budget plan with Chairpersons and Teams (x Every Teams)
+  - [ ] Collecting budget submissions from with Chairpersons and Teams (x Every Teams)
+  - [ ] Discussing the budget plan with Chairpersons and Teams (x Every Teams)
 
 - Call For Everything
   - [ ] Review on budget.
@@ -19,8 +20,8 @@
   - [ ] Review on budget.
 
 - Conference
-  - [ ] 
+  - 
 
 - Wrap-up
-  - [ ] 
+  - 
 
