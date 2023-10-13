@@ -7,7 +7,6 @@
 ## Checklist 
 
 - Always
-  - 
 
 - Planning
   - [ ] Collecting budget submissions from with Chairpersons and Teams (x Every Teams)
@@ -20,8 +19,7 @@
   - [ ] Review on budget.
 
 - Conference
-  - 
 
 - Wrap-up
-  - 
+
 
