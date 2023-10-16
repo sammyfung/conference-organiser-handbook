@@ -3,6 +3,14 @@ Conference Organiser Handbook
 
 This handbook provides a reference for conference organisers to plan and work for their community conferences and events.
 
+## Stages
+- [ ] [Fesibility Study](stages/feasibility-study)
+- [ ] Planning
+- [ ] Call For Everything
+- [ ] Promotion
+- [ ] Confernce
+- [ ] Wrap-up
+
 ## Roles
 - [ ] Conference Chairperson(s)
 - [ ] Administration Team
@@ -12,9 +20,3 @@ This handbook provides a reference for conference organisers to plan and work fo
 - [ ] Program Committee
 - [ ] Sales Team
 
-## Stages
-- [ ] Planning
-- [ ] Call For Everything
-- [ ] Promotion
-- [ ] Confernce
-- [ ] Wrap-up
