@@ -1,13 +1,13 @@
 # Feasibility Study Phase
  
 - [ ] Call for core volunteers 
-  ⁃ [ ] Roles of every core volunteers
-  ⁃ [ ] Tasks and Milestones 
-  ⁃ [ ] Required min/max no. Of volunteers 
-  ⁃ [ ]Year Theme: what will you, your friends & colleagues, industry and public interest to the technology, society, culture and life development in next 12 months? Everyone gives 3 tags.
+  - [ ] Roles of every core volunteers
+  - [ ] Tasks and Milestones 
+  - [ ] Required min/max no. Of volunteers 
+  - [ ] Year Theme: what will you, your friends & colleagues, industry and public interest to the technology, society, culture and life development in next 12 months? Everyone gives 3 tags.
 - [ ] Budget Planning by Finance Committee.
-  ⁃ [ ] Every team submitting their max/min cost budget required. 
-  ⁃ Will expected incomes cover afford min. Cost ? 
+  - [ ] Every team submitting their max/min cost budget required. 
+  - Will expected incomes cover afford min. Cost ? 
     - [ ] Sponsorship ?
       - [ ] List of Available Sponsorship Types.
       - [ ] What are sponsor benefits and difference between levels ?
@@ -24,7 +24,7 @@
         - Paid: PyCon, WordCamp.
       - [ ] Ticket Types by different Benefits and/or different stages ?
     - [ ] Sales of Good ? eg. T-shirts 
-⁃ [ ] Targeted Venue Requirements
-  ⁃ [ ] Size of Venue:
+- [ ] Targeted Venue Requirements
+  - [ ] Size of Venue:
     - [ ] Target max & min no. Of participants, tracks, sessions, booths ?
-    ⁃ [ ] If it's expected to loss in your budget plan, is the loss amount affordable  by your team or someone ? If it doesn't, the venue requirement should be changed.
+    - [ ] If it's expected to loss in your budget plan, is the loss amount affordable  by your team or someone ? If it doesn't, the venue requirement should be changed.
