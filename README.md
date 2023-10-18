@@ -12,13 +12,13 @@ This handbook provides a reference for conference organisers to plan and work fo
 - [ ] Wrap-up
 
 ## Roles
-- [ ] [Conference Chairperson(s)](roles/chairperson)
+- [ ] [Conference Chairperson(s)](roles/chairpersons)
 - [ ] [Administration Team](roles/administration)
 - [ ] [Finance Committee](roles/finance)
 - [ ] [Marketing Team](roles/marketing)
 - [ ] [Operation Team](roles/operation)
 - [ ] [Program Committee](roles/program)
-- [ ] [Sales Team]
+- [ ] [Sales Team](roles/sales)
 
 ## Tools
 - [ ] [Tools](tools)
